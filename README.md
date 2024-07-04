@@ -1,5 +1,4 @@
 # Flutter Voice Assistant App
- May '23 - July '23
 
 
  ## Overview
@@ -15,8 +14,3 @@ The goal was to provide accurate responses to user queries, understanding natura
 ## Technologies used
 Flutter, Dart, OpenAI API, Chat GPT, DALL-E
 
-## Milestones
-1. Successfully developed a fully functional Voice Assistant app with advanced conversational and image generation capabilities.
-2. Achieved seamless integration of Chat GPT and DALL-E models, enhancing the app's overall functionality and user experience.
-3. Developed a stable and reliable Voice Assistant app that operates smoothly, with minimal downtime or performance issues. This achievement showcases the ability to implement rigorous testing and debugging processes, resulting in a high-performing app that meets user expectations
-4. Achieved cross-platform compatibility by developing the Voice Assistant app using Flutter and Dart, ensuring that it can be seamlessly used on both iOS and Android devices. 
